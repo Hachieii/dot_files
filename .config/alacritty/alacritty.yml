@@ -1,0 +1,6 @@
+font:
+  normal:
+    family: "MesloLGS NF"
+
+# import:
+#  - ~/.config/alacritty/themes/themes/github_dark_default.yaml
